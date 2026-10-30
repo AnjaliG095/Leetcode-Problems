@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3024-type-of-triangle](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
+| [3024-type-of-triangle](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -24,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3024-type-of-triangle) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
