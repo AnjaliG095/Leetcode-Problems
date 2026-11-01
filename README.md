@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3024-type-of-triangle](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3024-type-of-triangle) |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3024-type-of-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
