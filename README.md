@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [2409-count-days-spent-together](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
@@ -49,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
