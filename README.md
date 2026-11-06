@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
