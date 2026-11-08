@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
