@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0344-reverse-string) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0704-binary-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
