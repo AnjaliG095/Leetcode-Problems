@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [2409-count-days-spent-together](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [3024-type-of-triangle](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 ## String
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
