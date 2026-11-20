@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [2409-count-days-spent-together](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [3024-type-of-triangle](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 ## String
