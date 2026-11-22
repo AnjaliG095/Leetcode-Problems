@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0709-to-lower-case) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 ## Hash Table
