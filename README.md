@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [2409-count-days-spent-together](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [3024-type-of-triangle](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3024-type-of-triangle) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnjaliG095/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
